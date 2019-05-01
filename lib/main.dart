@@ -12,7 +12,7 @@ class HalamanMain extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Toro Toro App"),
+          title: new Text("Toro Toro Appssss"),
         ),
         body: new Container(
           child: new Column(
